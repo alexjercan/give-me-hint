@@ -30,3 +30,7 @@ The input argument is used to point to the given file containing source code.
 The language argument is used to specify the programming language used.
 The line argument is a number that specifies the line number of where the bug
 is and it starts from 1.
+
+## Example
+
+![Codex](https://i.imgur.com/ouBssRP.png)
